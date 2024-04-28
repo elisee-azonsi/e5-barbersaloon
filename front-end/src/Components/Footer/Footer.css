@@ -1,0 +1,14 @@
+.footer{
+    background: linear-gradient(#6c6c6a7e,rgba(253, 255, 222, 0.392),white);
+    overflow: hidden;
+    text-align: center;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    bottom: 0;
+    width: 100%;
+}
+.footer .p{
+    color: black;
+}

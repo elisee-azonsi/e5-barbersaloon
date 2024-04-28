@@ -1,0 +1,36 @@
+body{
+  margin: 0px;
+}
+
+.navbar {
+
+  width: 100%;
+  display: flex;
+  background-color: floralwhite;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 10px 20px;
+}
+
+.navbar-nav {
+
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+.nav-item {
+  margin-right: 10px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.nav-link:hover {
+  background-color: #555;
+}

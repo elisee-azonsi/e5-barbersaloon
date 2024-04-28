@@ -1,0 +1,23 @@
+.desc{
+    text-align: center;
+    margin: 20px;
+    font-size: 25px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: auto;
+    padding-bottom: auto
+    ;
+}
+
+p{
+    margin: 15px;
+    color: gray;
+}
+
+.contact{
+    margin-top: 20px;
+    padding: 40px;
+}
+.contact p{
+    color: black;
+}

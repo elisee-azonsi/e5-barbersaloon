@@ -1,0 +1,25 @@
+
+div.profile{
+    display: flex;
+    background-image: url('../../assets/saloon2.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    justify-content: space-around;
+    padding: 100px;
+    position: sticky;
+
+}
+.info, .bookings{
+    background-color: white;
+    padding: 50px;
+    height: auto;
+    justify-content: space-between;
+}
+.info p{
+    display: flex;
+    justify-content: space-between;
+}
+div.info b{
+    color: #000000;
+    margin-left: 10px;
+}
